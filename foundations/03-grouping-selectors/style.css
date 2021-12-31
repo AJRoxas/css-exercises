@@ -1,0 +1,14 @@
+.panther,
+.bumblebee {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.panther {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.bumblebee {
+    background-color: #ffff00;
+}
